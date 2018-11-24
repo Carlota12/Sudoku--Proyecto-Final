@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/CarlotaBrauckmeyer/CLionProjects/sudoku/Metodos_Generales.h
+string
+-
+
+/Users/CarlotaBrauckmeyer/CLionProjects/sudoku/Sudoku.cpp
+Sudoku.h
+/Users/CarlotaBrauckmeyer/CLionProjects/sudoku/Sudoku.h
+iostream
+-
+iomanip
+-
+fstream
+-
+Metodos_Generales.h
+/Users/CarlotaBrauckmeyer/CLionProjects/sudoku/Metodos_Generales.h
+
+/Users/CarlotaBrauckmeyer/CLionProjects/sudoku/Sudoku.h
+Metodos_Generales.h
+/Users/CarlotaBrauckmeyer/CLionProjects/sudoku/Metodos_Generales.h
+
